@@ -12,4 +12,4 @@ Each channel consists of org's peers like bellow.
 Channel1( peer0.org1, peer0.org2, peer0.org3 )
 Channel2( peer1.org3, peer0.org4 )
 
-![Network Diagram](https://raw.githubusercontent.com/nicezic0/fabric-multi-channel-samples/master/multi-channel-network/docs/multi-channel-network.PNG)
+![Network Diagram](https://raw.githubusercontent.com/hyperledger-labs/fabric-multi-channel-network-samples/master/multi-channel-network/docs/multi-channel-network.png)
